@@ -1,0 +1,10 @@
+evaluate 
+transformers 
+datasets>=2.14.5 
+accelerate>=0.27
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+tqdm
