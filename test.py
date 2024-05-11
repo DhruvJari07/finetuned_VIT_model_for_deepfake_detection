@@ -7,7 +7,7 @@ image_path = "artifacts/Dataset/Test/Fake/fake_2243.jpg"
 
 
 # Define the API Gateway URL
-API_GATEWAY_URL = 
+API_GATEWAY_URL = ""
 
 # Open the image file in binary mode and read its content
 with open(image_path, "rb") as file:
